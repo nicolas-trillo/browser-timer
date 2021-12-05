@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.c-info {
+  background: lightblue;
+  display: flex;
+  justify-content: space-around;
+}
+
+.c-buttons button {
+  width: 40px;
+  height: 20px;
+}
